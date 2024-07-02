@@ -113,3 +113,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# コマンド入力例
+# $ python3 file_manipulator2.py reverse /home/kenya/recursion/python_practice/file_manipulator/file_manipulater/test.txt /home/kenya/recursion/python_practice/file_manipulator/file_manipulater/a
+# $ python3 file_manipulator2.py copy /home/kenya/recursion/python_practice/file_manipulator/file_manipulater/test.txt /home/kenya/recursion/python_practice/file_manipulator/file_manipulater/a
+# $ python3 file_manipulator2.py duplicate-contents /home/kenya/recursion/python_practice/file_manipulator/file_manipulater/test.txt 5
+# $ python3 file_manipulator2.py replace-string /home/kenya/recursion/python_practice/file_manipulator/file_manipulater/test.txt g [HOGE]
