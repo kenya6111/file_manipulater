@@ -102,3 +102,7 @@ python3 --version
 ## 📑参考文献
 ### 公式ドキュメント
 - [Python](https://docs.python.org/ja/3/)
+- [コマンドライン引数の受取](https://qiita.com/taashi/items/07bf75201a074e208ae5)
+- [ファイルの作成削除](https://www.javadrive.jp/python/file/index9.html)
+- [ファイルの中身削除](https://teratail.com/questions/263025)
+- [with句について](https://djangobrothers.com/blogs/with_statement_basic/#google_vignette)
